@@ -4,7 +4,6 @@ Created on Fri Jul 30 15:56:49 2021
 
 @author: zhi
 """
-wasai
 
 import os
 from argparse import ArgumentParser
