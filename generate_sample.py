@@ -4,6 +4,7 @@ Created on Wed Jun  9 14:05:37 2021
 
 @author: zhi
 """
+wao
 
 from PIL import Image,ImageFont,ImageDraw
 import os
